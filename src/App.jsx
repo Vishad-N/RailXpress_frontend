@@ -9,7 +9,7 @@ import Dashboard from "./components/dashboard";
 import { getCurrentUser } from "./services/auth";
 import BookingForm from "./components/book/BookingForm";
 import BookingDetails from "./components/book/BookingDetails"; //  correct path
-import TrackBooking from "./components/track/TrackBooking";
+import TrackBooking from "./components/track/TracKBooking";
 import FullPageLoader from "./components/pageloaders/FullPageLoader";
 import GridLoader from "./components/pageloaders/GridLoader";
 import Loader from "./components/Loader";
